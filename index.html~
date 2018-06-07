@@ -7,7 +7,7 @@
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Ceevee - Free Responsive HTML5/CSS3 Template</title>
+	<title>Mbatha Nzioki</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -56,9 +56,9 @@
 
       <div class="row banner">
          <div class="banner-text">
-            <h1 class="responsive-headline">I'm Jonathan Doe.</h1>
-            <h3>I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
-            effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a>
+            <h1 class="responsive-headline">Emmaculate Nzioki.</h1>
+            <h3>I'm a Nairobi  based <span>graphic designer</span>, <span>webdesigner</span> and <span>photographer.</span> 
+          	 Let's <a class="smoothscroll" href="#about">start scrolling</a>
             and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
             <hr />
             <ul class="social">
@@ -96,12 +96,8 @@
 
             <h2>About Me</h2>
 
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-            voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-            voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-            Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.
+            <p>I'm currently at Tunapanda Institute where i'm gaining skills in webdesign,graphic design and photography.I'm self 			motivated,independent and i believe in change.
+
             </p>
 
             <div class="row">
@@ -110,11 +106,11 @@
 
                   <h2>Contact Details</h2>
                   <p class="address">
-						   <span>Jonathan Doe</span><br>
-						   <span>1600 Amphitheatre Parkway<br>
-						         Mountain View, CA 94043 US
+						   <span>Emmaculate Nzioki</span><br>
+						   <span>Nairobi.<br>
+						         Kenya.
                      </span><br>
-						   <span>(123)456-7890</span><br>
+						   <span>+254 712205164</span><br>
                      <span>anyone@website.com</span>
 					   </p>
 
@@ -153,14 +149,12 @@
 
                <div class="twelve columns">
 
-                  <h3>University of Life</h3>
-                  <p class="info">Master in Graphic Design <span>&bull;</span> <em class="date">April 2007</em></p>
+                  <h3></h3>
+                  <p class="info"> <span>&bull;</span> <em class="date">April 2007</em></p>
 
                   <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+                  I attended Sameer Africa where  i learned typing and web design,graduated with a certificate and joined Tunapanda in 				February 2018 where i had the opportunity to perfect my skills in typing and web design and also had the chance to 				learn other things like game design,videography,growth mindset and business development. 
+ 
                   </p>
 
                </div>
@@ -171,16 +165,11 @@
 
                <div class="twelve columns">
 
-                  <h3>School of Cool Designers</h3>
-                  <p class="info">B.A. Degree in Graphic Design <span>&bull;</span> <em class="date">March 2003</em></p>
+                  <h3></h3>
+                  <p class="info"> <span>&bull;</span> <em class="date"></em></p>
 
                   <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
-                  </p>
-
+                  
                </div>
 
             </div> <!-- item end -->
@@ -204,15 +193,11 @@
 
                <div class="twelve columns">
 
-                  <h3>Awesome Design Studio</h3>
-                  <p class="info">Senior UX Designer <span>&bull;</span> <em class="date">March 2010 - Present</em></p>
+                  <h3>Orbit chemicals Limited</h3>
+                  <p class="info"> <span>&bull;</span> <em class="date">February 2017-November 2017</em></p>
 
-                  <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-                  </p>
+                  <p>As a casual worker.I was packing and labelling products.
+                  
 
                </div>
 
@@ -222,16 +207,11 @@
 
                <div class="twelve columns">
 
-                  <h3>Super Cool Studio</h3>
-                  <p class="info">UX Designer <span>&bull;</span> <em class="date">March 2007 - February 2010</em></p>
+                  <h3></h3>
+                  <p class="info"> <span>&bull;</span> <em class="date"></em></p>
 
                   <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
-                  </p>
-
+                  
                </div>
 
             </div> <!-- item end -->
@@ -251,21 +231,18 @@
 
          <div class="nine columns main-col">
 
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-            voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-            voluptatem sequi nesciunt.
+            <p>I have skills in typing,webdesign,graphic design,photography,video/film editing,business and communication.I also have skills in customer care skills and leardership.
             </p>
 
 				<div class="bars">
 
 				   <ul class="skills">
-					   <li><span class="bar-expand photoshop"></span><em>Photoshop</em></li>
-                  <li><span class="bar-expand illustrator"></span><em>Illustrator</em></li>
+					   <li><span class="bar-expand Gimp"></span><em>Gimp</em></li>
+                  <li><span class="bar-expand inkscape"></span><em>inkscape</em></li>
 						<li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
 						<li><span class="bar-expand css"></span><em>CSS</em></li>
 						<li><span class="bar-expand html5"></span><em>HTML5</em></li>
-                  <li><span class="bar-expand jquery"></span><em>jQuery</em></li>
+                  <li><span class="bar-expand jquery"></span><em></em></li>
 					</ul>
 
 				</div><!-- end skill-bars -->
@@ -297,7 +274,7 @@
                         <img alt="" src="images/portfolio/coffee.jpg">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Coffee</h5>
+          					      <h5>poster/h5>
                               <p>Illustrration</p>
           					   </div>
                         </div>
@@ -578,7 +555,7 @@
 
    <!-- Call-To-Action Section
    ================================================== -->
-   <section id="call-to-action">
+ <!--  <section id="call-to-action">
 
       <div class="row">
 
@@ -590,9 +567,8 @@
 
          <div class="seven columns">
 
-            <h2><span class="lead">Unde Omnis Iste</span></h2>
-            <p><span class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae. </span></p>
+            <h2><span class="lead"></span></h2>
+            <p><span class="lead"> </span></p>
 
          </div>
 
@@ -609,7 +585,7 @@
 
    <!-- Testimonials Section
    ================================================== -->
-   <section id="testimonials">
+  <!-- <section id="">
 
       <div class="text-container">
 
@@ -617,7 +593,7 @@
 
             <div class="two columns header-col">
 
-               <h1><span>Client Testimonials</span></h1>
+               <h1><span></span></h1>
 
             </div>
 
@@ -629,25 +605,21 @@
 
                      <li>
                         <blockquote>
-                           <p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is
-                           to do what you believe is great work. And the only way to do great work is to love what you do.
-                           If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+                           <p>
                            </p>
-                           <cite>Steve Jobs</cite>
-                        </blockquote>
-                     </li> <!-- slide ends -->
+                           <cite></cite>
+                        </blockquote> -->
+                    <!-- </li> <!-- slide ends -->
 
                      <li>
                         <blockquote>
-                           <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                           Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                           nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+                           <p>
                            </p>
-                           <cite>Mr. Adobe</cite>
+                           <cite></cite>
                         </blockquote>
                      </li> <!-- slide ends -->
 
-                  </ul>
+                  </ul>-->
 
                </div> <!-- div.flexslider ends -->
 
@@ -657,7 +629,7 @@
 
        </div>  <!-- text-container ends -->
 
-   </section> <!-- Testimonials Section End-->
+   </section> --> <!-- Testimonials Section End-->
 
 
    <!-- Contact Section
@@ -674,9 +646,7 @@
 
             <div class="ten columns">
 
-                  <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-                  voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                  <p class="lead">.
                   </p>
 
             </div>
@@ -737,34 +707,32 @@
 
 					   <h4>Address and Phone</h4>
 					   <p class="address">
-						   Jonathan Doe<br>
-						   1600 Amphitheatre Parkway <br>
-						   Mountain View, CA 94043 US<br>
-						   <span>(123) 456-7890</span>
+						   Emmaculate Nzioki<br>
+						   Nairobi <br>
+						  Kenya <br>
+						   <span>(+254) 7 12205164</span>
 					   </p>
 
 				   </div>
 
                <div class="widget widget_tweets">
 
-                  <h4 class="widget-title">Latest Tweets</h4>
+                  <h4 class="widget-title"></h4>
 
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        
+                        <a href="#"></a>
                         </span>
-                        <b><a href="#">2 Days Ago</a></b>
+                        <b><a href="#"></a></b>
                      </li>
                      <li>
                         <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        
+                        <a href="#"></a>
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                        <b><a href="#"></a></b>
                      </li>
                   </ul>
 
